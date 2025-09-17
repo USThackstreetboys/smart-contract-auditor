@@ -1,0 +1,35 @@
+# Core FastAPI dependencies
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+python-jose[cryptography]==3.3.0
+
+# AI and ML libraries
+openai==1.3.0
+anthropic==0.7.8
+tiktoken==0.5.1
+
+# Data processing
+pydantic==2.5.0
+pydantic-settings==2.1.0
+python-dotenv==1.0.0
+
+# File processing
+aiofiles==23.2.1
+
+# Solidity parsing and analysis
+py-solc-x==1.12.1
+solidity-parser==0.1.1
+
+# Security analysis
+slither-analyzer==0.10.0
+
+# Utilities
+httpx==0.25.2
+jinja2==3.1.2
+requests==2.31.0
+regex==2023.10.3
+
+# Development
+pytest==7.4.3
+pytest-asyncio==0.21.1
