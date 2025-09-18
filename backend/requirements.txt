@@ -18,7 +18,7 @@ python-dotenv==1.0.0
 aiofiles==23.2.1
 
 # Solidity parsing and analysis
-py-solc-x==1.12.1
+py-solc-x==2.0.4
 solidity-parser==0.1.1
 
 # Security analysis
